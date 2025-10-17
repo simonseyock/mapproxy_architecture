@@ -1,0 +1,9 @@
+Architecture Suggestion For MapProxy
+
+Goals:
+ 1. Not to hard to migrate too. MapProxy has a good working architecture that works quite well.
+ 2. Make understanding the code easier.
+ 3. Better reflect configuration in code. Configuration is very clear and understandable in it's types and functions.
+    Code is not.
+ 4. Even if full concept could be ambitioned, try to implement parts of it.
+
